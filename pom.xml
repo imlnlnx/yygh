@@ -106,7 +106,7 @@
                 <version>${easyexcel.version}</version>
             </dependency>
 
-            <dependency>
+<!--            <dependency>
                 <groupId>com.aliyun</groupId>
                 <artifactId>aliyun-java-sdk-core</artifactId>
                 <version>${aliyun.version}</version>
@@ -116,7 +116,7 @@
                 <groupId>com.aliyun.oss</groupId>
                 <artifactId>aliyun-sdk-oss</artifactId>
                 <version>${oss.version}</version>
-            </dependency>
+            </dependency>-->
 
             <!--日期时间工具-->
             <dependency>
@@ -124,6 +124,8 @@
                 <artifactId>joda-time</artifactId>
                 <version>${jodatime.version}</version>
             </dependency>
+
+
         </dependencies>
     </dependencyManagement>
 
